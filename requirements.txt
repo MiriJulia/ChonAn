@@ -1,0 +1,10 @@
+# Chocoholics Anonymous Data Processing System
+# Requirements file for Python dependencies
+
+# GUI Framework - PySide6 for Qt-based interface
+PySide6>=6.5.0
+
+# Note: The following files are also required but not Python packages:
+# - banner.png (banner image)
+# - choco.png (chocolate bar icon)
+# - Pacifico-Regular.ttf (custom font file) 
