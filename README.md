@@ -69,10 +69,9 @@ The system now uses a robust data management system that stores all data in JSON
 
 ### Manager Accounts
 - **Username**: `manager`, **Password**: `manager123`
-- **Username**: `Mjin`, **Password**: `Mjin123`
 
 ### Provider Account
-- **Username**: `quinn`, **Password**: `quinn123`
+- **Username**: `provider`, **Password**: `provider123`
 
 ## Workflow
 
