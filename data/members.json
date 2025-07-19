@@ -1,0 +1,47 @@
+[
+  {
+    "member_id": "123456789",
+    "name": "Diana Vazquez",
+    "status": "Valid",
+    "address": "123 Main St",
+    "city": "Anytown",
+    "state": "CA",
+    "zip": "12345"
+  },
+  {
+    "member_id": "543210987",
+    "name": "Jane Smith",
+    "status": "Expired",
+    "address": "456 Elm St",
+    "city": "Othertown",
+    "state": "NY",
+    "zip": "67890"
+  },
+  {
+    "member_id": "333333333",
+    "name": "Bob Johnson",
+    "status": "Valid",
+    "address": "789 Oak St",
+    "city": "Smalltown",
+    "state": "TX",
+    "zip": "34567"
+  },
+  {
+    "member_id": "296846656",
+    "name": "John Smith",
+    "address": "456 Recovery Lane",
+    "city": "Wellness Town",
+    "state": "NY",
+    "zip": "10001",
+    "status": "Valid"
+  },
+  {
+    "member_id": "140479571",
+    "name": "Shanon Baldwin",
+    "address": "234 Las Palmas St.",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "89301",
+    "status": "Valid"
+  }
+]

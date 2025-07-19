@@ -1,0 +1,32 @@
+{
+  "manager": {
+    "username": "manager",
+    "password": "manager123",
+    "role": "manager"
+  },
+  "provider": {
+    "username": "provider",
+    "password": "provider123",
+    "role": "provider"
+  },
+  "mjin": {
+    "username": "Mjin",
+    "password": "Mjin123",
+    "role": "manager"
+  },
+  "dr.sarahjohnson": {
+    "username": "dr.sarahjohnson",
+    "password": "855664588",
+    "role": "provider"
+  },
+  "testprovider": {
+    "username": "testprovider",
+    "password": "964749148",
+    "role": "provider"
+  },
+  "dr.kevinreeves": {
+    "username": "dr.kevinreeves",
+    "password": "678598857",
+    "role": "provider"
+  }
+}

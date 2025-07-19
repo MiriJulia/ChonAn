@@ -1,0 +1,18 @@
+[
+  {
+    "provider_id": "855664588",
+    "name": "Dr. Sarah Johnson",
+    "address": "123 Medical Center Dr",
+    "city": "Healthcare City",
+    "state": "CA",
+    "zip": "90210"
+  },
+  {
+    "provider_id": "678598857",
+    "name": "Dr. Kevin Reeves",
+    "address": "564 Kaise Permanente",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "53214"
+  }
+]

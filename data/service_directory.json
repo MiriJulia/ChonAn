@@ -1,0 +1,102 @@
+[
+  {
+    "code": "100001",
+    "name": "Therapy Session",
+    "fee": 100.0
+  },
+  {
+    "code": "100002",
+    "name": "Dental Cleaning",
+    "fee": 80.0
+  },
+  {
+    "code": "100003",
+    "name": "Vision Exam",
+    "fee": 60.0
+  },
+  {
+    "code": "100004",
+    "name": "Physical Therapy",
+    "fee": 120.0
+  },
+  {
+    "code": "100005",
+    "name": "Nutrition Counseling",
+    "fee": 75.0
+  },
+  {
+    "code": "100006",
+    "name": "Psychological Therapy",
+    "fee": 150.0
+  },
+  {
+    "code": "100007",
+    "name": "Occupational Therapy",
+    "fee": 110.0
+  },
+  {
+    "code": "100008",
+    "name": "Speech Therapy",
+    "fee": 95.0
+  },
+  {
+    "code": "100009",
+    "name": "Massage Therapy",
+    "fee": 85.0
+  },
+  {
+    "code": "100010",
+    "name": "Chiropractic Adjustment",
+    "fee": 90.0
+  },
+  {
+    "code": "100011",
+    "name": "Acupuncture Session",
+    "fee": 70.0
+  },
+  {
+    "code": "100012",
+    "name": "Dental X-Ray",
+    "fee": 45.0
+  },
+  {
+    "code": "100013",
+    "name": "Eye Glasses Fitting",
+    "fee": 55.0
+  },
+  {
+    "code": "100014",
+    "name": "Hearing Test",
+    "fee": 65.0
+  },
+  {
+    "code": "100015",
+    "name": "Blood Pressure Check",
+    "fee": 25.0
+  },
+  {
+    "code": "100016",
+    "name": "Diabetes Screening",
+    "fee": 40.0
+  },
+  {
+    "code": "100017",
+    "name": "Flu Shot",
+    "fee": 30.0
+  },
+  {
+    "code": "100018",
+    "name": "Smoking Cessation Program",
+    "fee": 200.0
+  },
+  {
+    "code": "100019",
+    "name": "Weight Loss Consultation",
+    "fee": 85.0
+  },
+  {
+    "code": "100020",
+    "name": "Stress Management Session",
+    "fee": 95.0
+  }
+]
